@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 300px;
+  min-height: 300px;
+  margin: 100px;
+  border: 2px solid black;
+}
+
+.red {
+  width: full;
+  height: full;
+  background-color: red;
+}
